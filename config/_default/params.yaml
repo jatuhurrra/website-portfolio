@@ -26,13 +26,13 @@ address:
   street: 8916-5, Takayama
   city: Ikoma, Nara
   region: Kansai
-  postcode: '94305'
+  postcode: '630-0101'
   country: Japan
   country_code: JP
 coordinates:
-  latitude: '34.7326° N'
-  longitude: '135.7340° E'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude: '34.7326°'
+  longitude: '135.7340° '
+directions: Come to NAIST in Ikoma city, and look for the IS Division building. My Lab is on the 7th floor of Buidling B.
 office_hours:
   - 'Monday 10:00 to 13:00'
   - 'Wednesday 09:00 to 10:00'
