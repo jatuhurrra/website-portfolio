@@ -8,7 +8,7 @@
 theme: minimal
 day_night: true
 font: ''
-font_size: L
+font_size: S
 
 # SEO
 
@@ -30,8 +30,8 @@ address:
   country: Japan
   country_code: JP
 coordinates:
-  latitude: '34.7326°'
-  longitude: '135.7340° '
+  latitude: ' 34.7326° '
+  longitude: ' 135.7340° '
 directions: Come to NAIST in Ikoma city, and look for the IS Division building. My Lab is room B706 on the 7th floor of Block B.
 office_hours: 'Monday~Friday. From 8:00 a.m to 6:00 p.m'
   #- 'Wednesday 09:00 to 10:00'
