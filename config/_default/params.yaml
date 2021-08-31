@@ -34,26 +34,26 @@ coordinates:
   longitude: '135.7340° '
 directions: Come to NAIST in Ikoma city, and look for the IS Division building. My Lab is on the 7th floor of Buidling B.
 office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+  - 'Monday~Friday 8:00 a.m to 6:00 p.m'
+  #- 'Wednesday 09:00 to 10:00'
+#appointment_url: 'https://calendly.com'
+#contact_links:
+  - #icon: twitter
+    #icon_pack: fab
+    #name: DM Me
+    #link: 'https://twitter.com/Twitter'
+  - #icon: skype
+    #icon_pack: fab
+    #name: Skype Me
+    #link: 'skype:echo123?call'
+  - #icon: keybase
+    #icon_pack: fab
+    #name: Chat on Keybase
+    #link: 'https://keybase.io/'
+  - #icon: comments
+    #icon_pack: fas
+    #name: Discuss on Forum
+    #link: 'https://discourse.gohugo.io'
 
 # Site header
 
