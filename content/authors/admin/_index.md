@@ -11,7 +11,7 @@ role: Graduate Student
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Nara Institute of Science  and Technology
-  url: http://www.naist.jp/en/
+  url: https://www.naist.jp/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include: Natural Language Processing, Human Computer Interaction and Reinforcement Learning.
